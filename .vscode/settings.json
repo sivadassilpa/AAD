@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/764562fb-1548-4f17-80cf-a5dcf1f68d40/resourceGroups/cibuscellai/providers/Microsoft.Web/sites/CibusCellAAD",
+    "appService.deploySubpath": "AzureActiveDirectoryUI\\build"
+}
